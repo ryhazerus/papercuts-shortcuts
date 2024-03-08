@@ -1,5 +1,10 @@
 # 🧑‍🚀 Papercuts
+
 The Zeal of shortcuts made especially for Windows. Find and load all of your favorite shortcuts with ease.
+
+<p align="center">
+  <img style="width: 500px" src="./data/showcase.png" alt="Papercut Showcase"/>
+</p>
 
 ## Description
 
@@ -23,8 +28,8 @@ Papercuts is a Windows-based shortcut browser that aims to revolutionize the way
 
 Thanks to all who helped inspire this software. Special thanks to the open-source community for their contributions.
 This software is inspired by:
-- [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 
+- [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 
 ### To-do
 
