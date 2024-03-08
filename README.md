@@ -1,6 +1,6 @@
 # 🧑‍🚀 Papercuts
 
-The Zeal of shortcuts made especially for Windows. Find and load all of your favorite shortcuts with ease.
+Papercuts is a [Zeal](https://zealdocs.org/) inspired offline app that will let you browse and search all of your application shortcuts right there on your desktop. It's made especially for quicksearching all your shortcuts in Windows.
 
 <p align="center">
   <img style="width: 500px" src="./data/showcase.png" alt="Papercut Showcase"/>
@@ -10,7 +10,7 @@ The Zeal of shortcuts made especially for Windows. Find and load all of your fav
 
 Papercuts is a Windows-based shortcut browser that aims to revolutionize the way you interact with keyboard shortcuts. With a growing collection of 10+ programs, Papercuts offers a comprehensive platform for discovering, organizing, and mastering shortcuts across various applications. Our mission is to simplify your workflow and boost productivity by providing a centralized hub for all your favorite keyboard shortcuts.
 
-### Features
+### 🎁 Features
 
 - **Lightning-fast Search:** Quickly find any shortcut with our intuitive search feature.
 - **Sleek User Interface:** Navigate through shortcuts effortlessly with our modern and user-friendly interface.
@@ -19,19 +19,19 @@ Papercuts is a Windows-based shortcut browser that aims to revolutionize the way
 - **Customizable Experience:** Personalize your shortcut browsing experience to suit your preferences.
 - **Cross-Platform Compatibility:** Coming soon! Stay tuned for cross-platform support to access Papercuts on different devices.
 
-### Built with
+### 🛠️ Built with
 
 - **Tauri:** A framework for building lightweight, cross-platform desktop apps with web technologies.
 - **React:** A JavaScript library for building user interfaces.
 
-### Acknowledgements
+### 👏 Acknowledgements
 
 Thanks to all who helped inspire this software. Special thanks to the open-source community for their contributions.
 This software is inspired by:
 
 - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 
-### To-do
+### 🗺️ Roadmap
 
 - [x] First UI Implementation
 - [ ] Open the shortcuts app via a shortcut
