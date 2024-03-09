@@ -8,7 +8,7 @@ Papercuts is a [Zeal](https://zealdocs.org/) inspired offline app that will let 
 
 ## Description
 
-Papercuts is a Windows-based shortcut browser that aims to revolutionize the way you interact with keyboard shortcuts. With a growing collection of 10+ programs, Papercuts offers a comprehensive platform for discovering, organizing, and mastering shortcuts across various applications. Our mission is to simplify your workflow and boost productivity by providing a centralized hub for all your favorite keyboard shortcuts.
+Papercuts is a Windows-based shortcut browser that aims to ease the way you interact and lookup keyboard shortcuts. With a growing collection of programs, Papercuts offers a comprehensive platform for discovering, organizing, and mastering shortcuts across various applications. Our mission is to simplify your workflow and boost productivity by providing a centralized hub for all your favorite keyboard shortcuts right there on your desktop.
 
 ### 🎁 Features
 
