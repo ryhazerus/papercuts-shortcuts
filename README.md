@@ -34,8 +34,8 @@ This software is inspired by:
 ### 🗺️ Roadmap
 
 - [x] First UI Implementation
-- [ ] Open the shortcuts app via a shortcut
-- [ ] Make the app available from the system tray
+- [x] Open the shortcuts app via a shortcut
+- [x] Make the app available from the system tray
 - [ ] Improve UI design and user experience
 - [ ] Add support for custom shortcut collections
 - [ ] Implement cloud storage integration for synchronization across devices
